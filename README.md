@@ -7,17 +7,17 @@
 ---
 
 ## Short Project Description
-A responsive, multi-page personal portfolio website designed and hand-coded from scratch using semantic HTML5 and custom CSS3 stylesheets. The website contains 6 distinct internal layout views detailing my introduction, academic journey, design interests, future goals, and dynamic communication channels.
+This is a personal portfolio website designed to showcase my skills that I have learnt at the Life Choices Academy. The website contains 6 distinct internal layout views detailing my introduction, journey, design interests, future goals, and communication channels.
 
 ## Purpose of the Website
-The primary purpose of this website is to serve as my final beginner web development showcase piece for the Life Choices Academy. It acts as an interactive digital introduction that maps out my recent progression into tech while visually reflecting my personal creative style, artistic voice, and long-term learning ambitions.
+The primary purpose of this website is to serve as a beginner web development showcase piece for the Life Choices Academy. It acts as an showcase to my progression tech while visually reflecting my personal creative style, artistic voice, and long-term learning ambitions.
 
 ---
 
 ## Features of Your Project
 * **Multi-Page Site Navigation:** A fully synchronized structural navigation bar that handles fluid routing across 6 layout elements (`index.html`, `about.html`, `goals.html`, `journey.html`, `interests.html`, `contact.html`).
 * **Interactive Animated Hero Banner:** A vibrant landing hero showcase running a dynamic, looping 4-stop infinite linear-gradient background animation accompanied by a pulsing Call-to-Action (CTA) guide button.
-* **Chronological Journey Matrix:** A clean, structural data table mapping out my educational roadmap timeline, completed exercises, and weekly technical modules.
+* **Chronological Journey Matrix:** A clean, data table mapping out my education timeline, completed exercises, and weekly technical modules.
 * **Creative Multi-Category Showcase:** An immersive visual gallery grouping my four primary creative dimensions (Fine Art, Jewelry Design, Coding, and Subculture Fashion) utilizing automated transform scales and smooth hover overlay cards.
 * **Professional Communication Node:** Structured, high-contrast interactive layout blocks linked directly to my email address, active LinkedIn node, and primary GitHub repository.
 * **Fluid Breakpoint Architecture:** A completely responsive framework that collapses and wraps complex multi-column layouts into stackable blocks for small touchscreens.
