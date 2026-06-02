@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact | Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="nav-menu">
+      <div class="nav-logo">ʚଓ𝓶𝓪𝓲𝓮𝓼𝓱𝓪</div>
+      <ul class="nav-links">
+        <li><a href="index.html">𝑯𝒐𝒎𝒆</a></li>
+        <li><a href="about.html">𝑨𝒃𝒐𝒖𝒕</a></li>
+        <li><a href="goals.html">𝑮𝒐𝒂𝒍𝒔</a></li>
+        <li><a href="journey.html">𝑱𝒐𝒖𝒓𝒏𝒆𝒚</a></li>
+        <li><a href="interests.html">𝑰𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔</a></li>
+        <li><a href="contact.html" class="active">𝑪𝒐𝒏𝒕𝒂𝒄𝒕</a></li>
+      </ul>
+    </nav>
+
+    <main class="main-container">
+      <h2>Wanna Get In Touch?</h2>
+      <div class="contact-grid">
+        <div class="contact-card">
+          <div class="contact-icon">✉</div>
+          <h3>Email Me</h3>
+          <p>
+            <a href="mailto:maieshamoohan@gmail.com">maieshamoohan@gmail.com</a>
+          </p>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-icon">[in]</div>
+          <h3>LinkedIn</h3>
+          <p>
+            <a href="https://linkedin.com/in/maiesha-moohan" target="_blank"
+              >linkedin.com/in/maiesha-moohan</a
+            >
+          </p>
+        </div>
+
+        <div class="contact-card">
+          <div class="contact-icon">⚒</div>
+          <h3>GitHub</h3>
+          <p>
+            <a href="https://github.com/Maiesha7-7Moohan" target="_blank"
+              >github.com/Maiesha7-7Moohan</a
+            >
+          </p>
+        </div>
+      </div>
+
+      <div class="form-container">
+        <h3>Want to send me a Message Directly?</h3>
+        <form
+          action="https://formspree.io/f/mrednoqy"
+          method="POST"
+          class="contact-form"
+        >
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              placeholder="Your Name"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              placeholder="Your Email Address"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea
+              id="message"
+              name="message"
+              rows="5"
+              required
+              placeholder="Write your message here..."
+            ></textarea>
+          </div>
+
+          <button type="submit" class="submit-btn">Send Message</button>
+        </form>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2026 Built By Maiesha</p>
+    </footer>
+  </body>
+</html>
