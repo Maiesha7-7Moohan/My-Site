@@ -14,7 +14,7 @@ The primary purpose of this website is to serve as a beginner web development sh
 
 ---
 
-## Features of Your Project
+## Features of My Project
 * **Multi-Page Site Navigation:** A fully synchronized structural navigation bar that handles fluid routing across 6 layout elements (`index.html`, `about.html`, `goals.html`, `journey.html`, `interests.html`, `contact.html`).
 * **Interactive Animated Hero Banner:** A vibrant landing hero showcase running a dynamic, looping 4-stop infinite linear-gradient background animation accompanied by a pulsing Call-to-Action (CTA) guide button.
 * **Chronological Journey Matrix:** A clean, data table mapping out my education timeline, completed exercises, and weekly technical modules.
